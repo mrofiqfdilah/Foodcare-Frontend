@@ -1,3 +1,3 @@
 ## Developer
 
-M Rofiq Fadilah (Azk) & Hilkia Farel Azaria (Zryy)
+M Rofiq Fadilah & Hilkia Farel Azaria 
